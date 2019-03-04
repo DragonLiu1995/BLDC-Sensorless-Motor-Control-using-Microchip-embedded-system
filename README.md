@@ -8,5 +8,6 @@ because the sensorless control of motor is easily disturbed by noise, we take th
 . Through the design and improvement of the algorithm, the stability of zero crossing detection was significantly improved, eliminating the
 influence of noise, improving the operation stability of the motor sensorless control.
 
-<img width="500" height="300" src="https://github.com/DragonLiu1995/BLDC-Sensorless-Motor-Control-using-Microchip-embedded-system/blob/master/images/BEMF.png?raw=true" margin=auto />
-
+<p align="center">
+<img width="500" height="300" src="https://github.com/DragonLiu1995/BLDC-Sensorless-Motor-Control-using-Microchip-embedded-system/blob/master/images/BEMF.png?raw=true"/>
+</p>
