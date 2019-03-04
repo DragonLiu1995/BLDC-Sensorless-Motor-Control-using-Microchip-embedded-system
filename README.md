@@ -31,10 +31,4 @@ Some sample results are display below showing the mechanism of sensorless contro
   <b>ADC samples on low duty cycle PWMs on three channels</b>
 </p>
 
-<p align="center">
-<img width="500" height="300" src="https://github.com/DragonLiu1995/BLDC-Sensorless-Motor-Control-using-Microchip-embedded-system/blob/master/images/high_PWM.png?raw=true"/>
-</p>
-<p align="center">
-  <b>ADC samples on high duty cycle PWMs on three channels</b>
-</p>
 
