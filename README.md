@@ -7,4 +7,6 @@ includes the initialization according to the hardware condition, the control alg
 because the sensorless control of motor is easily disturbed by noise, we take the majority function filter algorithm to the deep exploration
 . Through the design and improvement of the algorithm, the stability of zero crossing detection was significantly improved, eliminating the
 influence of noise, improving the operation stability of the motor sensorless control.
-![image](https://github.com/DragonLiu1995/BLDC-Sensorless-Motor-Control-using-Microchip-embedded-system/tree/master/images/BEMF.png)
+
+<img width="500" height="300" src="https://github.com/DragonLiu1995/BLDC-Sensorless-Motor-Control-using-Microchip-embedded-system/blob/master/images/BEMF.png?raw=true" margin=auto />
+
