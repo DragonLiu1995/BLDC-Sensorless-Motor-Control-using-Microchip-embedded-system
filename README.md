@@ -8,6 +8,19 @@ because the sensorless control of motor is easily disturbed by noise, we take th
 . Through the design and improvement of the algorithm, the stability of zero crossing detection was significantly improved, eliminating the
 influence of noise, improving the operation stability of the motor sensorless control.
 
+Some sample results are display below showing the mechanism of sensorless control strategy.
+
 <p align="center">
 <img width="500" height="300" src="https://github.com/DragonLiu1995/BLDC-Sensorless-Motor-Control-using-Microchip-embedded-system/blob/master/images/BEMF.png?raw=true"/>
 </p>
+<p align="center">
+  <b>Back EMF data read from ocilloscope for three-phases</b>
+</p>
+
+<p align="center">
+<img width="500" height="300" src="https://github.com/DragonLiu1995/BLDC-Sensorless-Motor-Control-using-Microchip-embedded-system/blob/master/images/ADC.png?raw=true"/>
+</p>
+<p align="center">
+  <b>ADC samples on BEMF phases for the fisrt half of 120 degrees</b>
+</p>
+
